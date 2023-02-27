@@ -1,0 +1,45 @@
+
+        *{
+            color: aqua;
+        }
+        p, span{
+            color: deeppink;
+            width: 300px;
+        }
+
+        
+
+        h1 {
+            font-family: 'Roboto', sans-serif;;
+            border: 5px solid rgb(11, 59, 104);
+            padding: 5px;
+            margin: 30px;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            margin-left: 30px;
+            margin-right: 30px;
+            padding-top: 20px;
+            padding-bottom: 15px;
+            padding-right: 20px;
+            padding-left: 20px;
+            font-weight: bold;
+            color: blue ;
+        
+        }
+
+        section {
+                width: 300px;
+                border: 15px solid black;
+                padding: 50px;
+                margin: 20px;
+        }
+
+        #mi_parrafo {
+            color: red;
+            font-size: 23px;
+            border: 3px solid yellowgreen;
+        }
+.estaesmicalse{
+    font-weight: bold;
+    color:black;
+}
